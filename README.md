@@ -1,1 +1,1 @@
-This is a react project that show Manchester United's info.
+This is a react project that shows Manchester United's info.
